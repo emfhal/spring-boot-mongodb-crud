@@ -1,0 +1,4 @@
+com\emdemo\spring\data\mongodb\repository\ArticleRepository.class
+com\emdemo\spring\data\mongodb\controller\ArticleController.class
+com\emdemo\spring\data\mongodb\model\Article.class
+com\emdemo\spring\data\mongodb\SpringBootDataMongodbApplication.class
