@@ -1,4 +1,4 @@
-package com.emdemo.spring.data.mongodb;
+package com.emdemo.spring.data.news;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
