@@ -1,13 +1,13 @@
-package com.emdemo.spring.data.mongodb;
+package com.emdemo.spring.data.news;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootDataMongodbApplication {
+public class SpringBootNewsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootDataMongodbApplication.class, args);
+		SpringApplication.run(SpringBootNewsApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.emdemo.spring.data.mongodb.model;
+package com.emdemo.spring.data.news.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
